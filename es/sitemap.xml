@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://henrytam-shuhong.github.io/es/</loc>
+    <loc>https://henrytam.com/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://henrytam-shuhong.github.io/"
+                href="https://henrytam.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://henrytam-shuhong.github.io/fr/"
+                href="https://henrytam.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://henrytam-shuhong.github.io/es/"
+                href="https://henrytam.com/es/"
                 />
   </url><url>
-    <loc>https://henrytam-shuhong.github.io/es/categories/</loc>
+    <loc>https://henrytam.com/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://henrytam-shuhong.github.io/categories/"
+                href="https://henrytam.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://henrytam-shuhong.github.io/fr/categories/"
+                href="https://henrytam.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://henrytam-shuhong.github.io/es/categories/"
+                href="https://henrytam.com/es/categories/"
                 />
   </url><url>
-    <loc>https://henrytam-shuhong.github.io/es/tags/</loc>
+    <loc>https://henrytam.com/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://henrytam-shuhong.github.io/tags/"
+                href="https://henrytam.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://henrytam-shuhong.github.io/fr/tags/"
+                href="https://henrytam.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://henrytam-shuhong.github.io/es/tags/"
+                href="https://henrytam.com/es/tags/"
                 />
   </url>
 </urlset>
